@@ -781,7 +781,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #353535;
+  background: #ffffff;
 }
 .cid-sFGzlAXw3z .navbar.opened {
   transition: all 0.3s;
@@ -957,7 +957,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 .cid-sFGzlAXw3z button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
