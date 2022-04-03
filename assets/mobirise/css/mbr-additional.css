@@ -1074,7 +1074,7 @@ a {
   color: #ffffff;
 }
 .cid-sFGzrhlvIh H1 {
-  color: #ce813a;
+  color: #ff8301;
 }
 .cid-sFGzrhlvIh .mbr-text,
 .cid-sFGzrhlvIh .mbr-section-btn {
@@ -1132,7 +1132,7 @@ a {
   font-size: 32px;
   left: 50%;
   top: 120%;
-  color: #f3a862;
+  color: #ff8301;
   transform: translate(-50%, 0);
 }
 .cid-sFGBbGYuTc span {
@@ -1155,7 +1155,9 @@ a {
     top: 114%;
   }
 }
-.cid-sFGBbGYuTc .card-title,
+.cid-sFGBbGYuTc .card-title{
+  color: #ff8301;
+}
 .cid-sFGBbGYuTc .card-box {
   color: #bbbbbb;
 }
@@ -1220,7 +1222,7 @@ a {
 .cid-sFGGDvi61Z .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #353535;
+  background: #444444;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1245,7 +1247,7 @@ a {
   margin-top: auto !important;
 }
 .cid-sFGGDvi61Z .mbr-section-title {
-  color: #f3a862;
+  color: #ff8301;
 }
 .cid-sFGGDvi61Z .mbr-text,
 .cid-sFGGDvi61Z .mbr-section-btn {
@@ -1303,7 +1305,7 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #f3a862;
+  border: 2px solid #ff8301;
   transition: all 0.3s;
 }
 .cid-sFGGp6mJeM .social-row .soc-item .mbr-iconfont {
@@ -1311,11 +1313,11 @@ a {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #f3a862;
+  color: #ff8301;
   font-size: 1.5rem;
 }
 .cid-sFGGp6mJeM .social-row .soc-item:hover {
-  background-color: #f3a862;
+  background-color: #ff8301;
 }
 .cid-sFGGp6mJeM .social-row .soc-item:hover .mbr-iconfont {
   color: #000000;
@@ -1334,7 +1336,7 @@ a {
   color: #c79362;
 }
 .cid-sFGGp6mJeM .mbr-section-title {
-  color: #f3a862;
+  color: #ff8301;
 }
 .cid-sFGJrLtt3K {
   padding-top: 8rem;
@@ -1349,7 +1351,7 @@ a {
 }
 .cid-sFGJrLtt3K .card-wrapper {
   padding: 3rem;
-  background: #353535;
+  background: #444444;
   border-radius: 4px;
 }
 @media (max-width: 992px) {
@@ -1363,7 +1365,7 @@ a {
   }
 }
 .cid-sFGJrLtt3K .mbr-section-title {
-  color: #f3a862;
+  color: #ff8301;
 }
 .cid-sFGJrLtt3K .card-title {
   color: #bbbbbb;
@@ -1376,6 +1378,7 @@ a {
 }
 .cid-sFGJrLtt3K .link {
   color: #ff8a8a;
+  
 }
 .cid-sFGJsyrALx {
   padding-top: 2rem;
@@ -1438,7 +1441,7 @@ a {
   display: none;
 }
 .cid-sVEAV1o9Lx .mbr-section-title {
-  color: #f3a862;
+  color: #ff8301;
 }
 .cid-sFGDg6hy8z {
   padding-top: 5rem;
